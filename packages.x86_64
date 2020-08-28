@@ -109,11 +109,12 @@ grub
 
 #Calamares
 calamares
-oblinux-calamares-config
+oblinux-calamares-config-dev
 
 #Software
 git
 base-devel
 yay-bin
 neofetch
+falkon
 
