@@ -101,7 +101,6 @@ plasma-meta
 dolphin
 konsole
 kate
-konqueror
 packagekit-qt5
 sddm
 bash-completion
@@ -111,13 +110,10 @@ grub
 #Calamares
 calamares
 oblinux-calamares-config
-# Remove this one after rebuilding calamares package
-libpwquality
 
 #Software
 git
 base-devel
 yay-bin
 neofetch
-
 
